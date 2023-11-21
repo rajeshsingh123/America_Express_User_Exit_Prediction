@@ -6,22 +6,22 @@
 # Key Processes:
 
 *  Data Preprocessing:
- * Conducted comprehensive data preprocessing to enhance data quality and facilitate effective model training.
+   * Conducted comprehensive data preprocessing to enhance data quality and facilitate effective model training.
 
 *  Data Filtering:
- * Employed data filtering techniques to ensure relevant information is prioritized, contributing to the model's predictive accuracy.
+   * Employed data filtering techniques to ensure relevant information is prioritized, contributing to the model's predictive accuracy.
 
 *  Encoding and Feature Engineering:
- * Implemented encoding processes to convert categorical variables, enhancing the model's ability to learn complex patterns. Feature engineering was employed to optimize the model's 
+   * Implemented encoding processes to convert categorical variables, enhancing the model's ability to learn complex patterns. Feature engineering was employed to optimize the model's 
    performance.
 
 *  One-Hot Encoding:
- * tilized one-hot encoding to transform categorical variables into a format suitable for deep learning model input.
+   * tilized one-hot encoding to transform categorical variables into a format suitable for deep learning model input.
 
 # Model Performance:
 
 * Accuracy:
- *  The model achieved an impressive 85% accuracy, as validated by the confusion matrix, demonstrating its efficacy in predicting bank account closures.
+   *  The model achieved an impressive 85% accuracy, as validated by the confusion matrix, demonstrating its efficacy in predicting bank account closures.
 
 #  🛠️ Technologies Used:
 
